@@ -4,7 +4,6 @@ export default function Navbar() {
       <h1>GreenApply</h1>
       <div>
         <a href="#features">Features</a>
-        <a href="#pricing">Pricing</a>
         <a href="#contact">Get Started</a>
       </div>
     </nav>
